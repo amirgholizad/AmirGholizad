@@ -3,7 +3,7 @@
 **Data Scientist | Junior Backend Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/amirgholizad/)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://www.github.com/AmirMGholizad/)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://www.github.com/AmirGholizad/)
 [![Website](https://img.shields.io/badge/Website-green)](https://www.amirg.dev)
 
 ---
@@ -17,7 +17,7 @@ I am a passionate developer with over 8+ years of experience in Data Science and
 - 🤝 I’m looking to gain more industrial experience
 - 💬 Ask me about my career goals!
 - 📫 How to reach me: agholizadgha@mun.ca
-- ⚡ Fun fact: If it takes more than 24 hrs to debug, then it's a typo!!
+- ⚡ Fun fact: If it's taking more than 24 hrs to debug, then it's a typo!!
 ---
 
 ## 💼 Work Experience
