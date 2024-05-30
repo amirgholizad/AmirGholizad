@@ -12,12 +12,12 @@
 
 I am a passionate developer with over 8+ years of experience in Data Science and developing Machine Learning, Deep Learning, and Large Language Models. As a Junior Backend Developer with 2+ years of experience, I specialize in AWS and cloud-based solutions. My expertise lies in preprocessing data for machine learning models, deploying AI-based web apps, and managing cloud databases.
 
-- 🔭 I’m currently working on creating a chatbot that gives advice on nutrition and workout plans 🧨
-- 🌱 I’m currently learning more about ML in Finance
-- 🤝 I’m looking to gain more industrial experience
-- 💬 Ask me about my career goals!
-- 📫 How to reach me: agholizadgha@mun.ca
-- ⚡ Fun fact: If it's taking more than 24 hrs to debug, then it's a typo!!
+- 🔭 I’m currently working on: creating a chatbot that gives advice on nutrition and workout plans 🧨
+- 🌱 I’m currently learning:   more about ML in Finance
+- 🤝 I’m looking to:           gain more industrial experience
+- 💬 Ask me about:             my career goals!
+- 📫 Contact me:          agholizadgha@mun.ca
+- ⚡ Fun fact:                  If it's taking more than 24 hrs to debug, then it's a typo!!
 ---
 
 ## 💼 Work Experience
