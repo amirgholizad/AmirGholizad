@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I am a passionate developer with over 8+ years of experience in Data Science and developing Machine Learning, Deep Learning, and Large Language Models. As a Junior Backend Developer with 2+ years of experience, I specialize in AWS and cloud-based solutions. My expertise lies in preprocessing data for machine learning models, deploying AI-based web apps, and managing cloud databases.
+I am a graduating M.Sc. Physics student and a passionate developer with research experience in Data Science and developing Machine Learning, Deep Learning, and Large Language Models. As a Junior Backend Developer, I specialize in AWS and cloud-based solutions. My expertise lies in preprocessing data for machine learning models, deploying AI-based web apps, and managing cloud databases.
 
 - 🔭 I’m currently working on: creating a chatbot that gives advice on nutrition and workout plans 🧨
 - 🌱 I’m currently learning:   more about ML in Finance
