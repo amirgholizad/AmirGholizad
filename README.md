@@ -7,22 +7,12 @@
 [![Website](https://img.shields.io/badge/Website-green)](https://www.amirg.dev)
 
 
-<table border="0" style="border-collapse: collapse; margin: 0 auto;">
-  <tr>
-    <td style="padding: 5px;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=amirgholizad&show_icons=true&theme=discord_old_blurple&custom_title=Github+Stats" />
-      </a>
-    </td>
-    <td style="padding: 5px;">
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img height="200" width="303" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgholizad&show_icons=true&theme=discord_old_blurple&hide=Jupyter+Notebook,Mako&layout=compact" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=amirgholizad&show_icons=true&theme=discord_old_blurple&custom_title=Github+Stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 width=303 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgholizad&show_icons=true&theme=discord_old_blurple&hide=Jupyter+Notebook,Mako&layout=compact" />
+</a>
 
 ## 👋 About Me
 
