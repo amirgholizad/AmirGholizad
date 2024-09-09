@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=amirgholizad&show_icons=true&theme=discord_old_blurple&custom_title=Github+Stats" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=amirgholizad&show_icons=true&theme=discord_old_blurple&custom_title=Github+Stats&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 width=303 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgholizad&show_icons=true&theme=discord_old_blurple&hide=Jupyter+Notebook,Mako&layout=compact" />
