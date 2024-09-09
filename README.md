@@ -6,7 +6,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://www.github.com/AmirGholizad/)
 [![Website](https://img.shields.io/badge/Website-green)](https://www.amirg.dev)
 
----
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amirgholizad&show_icons=true&theme=discord_old_blurple&custom_title=Github+Stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgholizad&show_icons=true&theme=discord_old_blurple&hide=Jupyter+Notebook,Mako&layout=compact" />
+</a>
 
 ## 👋 About Me
 
@@ -30,9 +36,3 @@ I am a graduating M.Sc. Physics student and a passionate developer with research
 
 ## 🌟 Certifications
 - [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/6d3d2ced-9b76-43b9-9b17-010351233132/linked_in_profile)
-
-
-## 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirgholizad&show_icons=true&theme=discord_old_blurple&custom_title=Amir's+github+stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirgholizad&show_icons=true&theme=discord_old_blurple&hide=Jupyter+Notebook,Mako)](https://github.com/anuraghazra/github-readme-stats)
