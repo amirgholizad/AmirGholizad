@@ -1,6 +1,6 @@
 # Amir Gholizad
 
-**Data Scientist | Software Developer**
+Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/amirgholizad/)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://www.github.com/AmirGholizad/)
@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=amirgholizad&show_icons=true&theme=discord_old_blurple&custom_title=Github+Stats" />
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=amirgholizad&show_icons=true&theme=discord_old_blurple&custom_title=Github+Stats&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 width=303 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirgholizad&show_icons=true&theme=discord_old_blurple&hide=Jupyter+Notebook,Mako&layout=compact" />
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I am a graduating M.Sc. Physics student and a passionate developer with research experience in Data Science and developing Machine Learning, Deep Learning, and Large Language Models. As a Backend Developer, I specialize in AWS and cloud-based solutions. My expertise lies in preprocessing data for machine learning models, deploying AI-based web apps, and managing cloud databases.
+I am a graduated Physics student and a passionate developer with research experience in Data Science and developing Machine Learning, Deep Learning, and Large Language Models. As a Software Developer, I specialize in full stack web development, AWS, and cloud-based solutions. My expertise lies in building full fledged web apps using HTML/CSS/JS/React, and managing cloud platforms.
 
 - 🔭 I’m currently working on: creating a chatbot that gives advice on nutrition and workout plans 🧨
 - 🌱 I’m currently learning:   more about ML in Finance
@@ -29,9 +29,9 @@ I am a graduating M.Sc. Physics student and a passionate developer with research
 
 - **Data Science**: Numpy, Pandas, Seaborn, Matplotlib, Keras, Pytorch, TensorFlow, Scikit-learn, OpenAI
 - **DevOps**: AWS, Vercel, CI/CD, Docker
-- **Backend and Server Management**: FastAPI, NginX
-- **Frontend**: HTML, CSS
-- **Database**: PostgreSQL
+- **Backend and Server Management**: Node.js, Express, FastAPI, NginX
+- **Frontend**: HTML, CSS, JS
+- **Database**: PostgreSQL, MySQL
 - **Other**: Linux, Git
 
 ## 🌟 Certifications
