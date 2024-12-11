@@ -1,6 +1,6 @@
 # Amir Gholizad
 
-Software Developer**
+**Software Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/amirgholizad/)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://www.github.com/AmirGholizad/)
@@ -30,7 +30,7 @@ I am a graduated Physics student and a passionate developer with research experi
 - **Data Science**: Numpy, Pandas, Seaborn, Matplotlib, Keras, Pytorch, TensorFlow, Scikit-learn, OpenAI
 - **DevOps**: AWS, Vercel, CI/CD, Docker
 - **Backend and Server Management**: Node.js, Express, FastAPI, NginX
-- **Frontend**: HTML, CSS, JS
+- **Frontend**: HTML, CSS, JS, React.js
 - **Database**: PostgreSQL, MySQL
 - **Other**: Linux, Git
 
