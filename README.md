@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amir G, a Full-Stack Software Engineer
+# 👋 Hi, I’m Amir G, a Full-Stack Software Developer
 
 
 ### ✍️ Dev Quote  
@@ -12,7 +12,7 @@
 - 🤝 Open to: Opportunities to gain industry experience  
 - 💬 Ask me about: My career goals & projects  
 - 📫 Reach me at: **agholizadgha@mun.ca**  
-- ⚡ Fun fact: If debugging takes more than 24 hrs, it’s probably a typo!  
+- ⚡ Fun fact: If your debugging is taking too long, it’s probably a typo!  
 
 
 ## 🌐 Connect with Me  
